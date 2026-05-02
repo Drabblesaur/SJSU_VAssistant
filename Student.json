@@ -1,0 +1,109 @@
+{
+  "First_Name": "Johnny",
+  "Last_Name": "To",
+  "ID": "111111111",
+  "Overall_GPA": 3.4,
+  "SJSU_GPA": 3.4,
+  "Major": "mstr_software_engr_ms",
+  "Courses": [
+    {
+      "Course": "CMPE 202",
+      "Description": "SW System Engr",
+      "Term": "FALL 2024",
+      "Grade": "B+",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 255",
+      "Description": "Data Mining",
+      "Term": "SPRING 2025",
+      "Grade": "B",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 257",
+      "Description": "Machine Learning",
+      "Term": "SPRING 2025",
+      "Grade": "A",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 258",
+      "Description": "Deep Learning",
+      "Term": "FALL 2025",
+      "Grade": "",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "In Progress"
+    },
+    {
+      "Course": "CMPE 259",
+      "Description": "Nat Lang Process",
+      "Term": "SPRING 2025",
+      "Grade": "",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "In Progress"
+    },
+    {
+      "Course": "CMPE 272",
+      "Description": "Enterprise SW Plat",
+      "Term": "FALL 2024",
+      "Grade": "B",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 280",
+      "Description": "Web UI Design",
+      "Term": "SPRING 2026",
+      "Grade": "",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Planned"
+    },
+    {
+      "Course": "CMPE 287",
+      "Description": "SW Qual Assur Test",
+      "Term": "FALL 2024",
+      "Grade": "B",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 294",
+      "Description": "CMPE Seminar",
+      "Term": "SPRING 2025",
+      "Grade": "A+",
+      "Units": 3.0,
+      "Requirement_Designation": "GWAR",
+      "Status": "Completed"
+    },
+    {
+      "Course": "CMPE 295A",
+      "Description": "Master Project I",
+      "Term": "FALL 2025",
+      "Grade": "",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "In Progress"
+    },
+    {
+      "Course": "CMPE 295B",
+      "Description": "Master Project II",
+      "Term": "SPRING 2026",
+      "Grade": "",
+      "Units": 3.0,
+      "Requirement_Designation": "",
+      "Status": "Planned"
+    }
+  ]
+}
